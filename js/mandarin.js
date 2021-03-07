@@ -288,6 +288,48 @@ var songs = [
         'album': 'n/a',
         'url': 'music/不說出的溫柔.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '在水一方',
+        'artist': '汪東城',
+        'album': 'n/a',
+        'url': 'music/在水一方.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '半情歌',
+        'artist': '元若藍',
+        'album': 'n/a',
+        'url': 'music/半情歌.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '愛夏',
+        'artist': '胡夏',
+        'album': 'n/a',
+        'url': 'music/愛夏.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'I Dont Know',
+        'artist': '王詩安',
+        'album': 'n/a',
+        'url': 'music/I Dont Know.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '我不願讓你一個人',
+        'artist': '五月天',
+        'album': 'n/a',
+        'url': 'music/我不願讓你一個人.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '小半',
+        'artist': '陳粒',
+        'album': 'n/a',
+        'url': 'music/小半.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

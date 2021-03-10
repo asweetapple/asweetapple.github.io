@@ -120,6 +120,34 @@ var songs = [
         'album': 'n/a',
         'url': 'music/灰色と青.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'アンコール',
+        'artist': 'YOASOBI',
+        'album': 'n/a',
+        'url': 'music/アンコール.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '優しい彗星',
+        'artist': 'YOASOBI',
+        'album': 'n/a',
+        'url': 'music/優しい彗星.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '黒猫',
+        'artist': '花たん',
+        'album': 'n/a',
+        'url': 'music/黒猫.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'ただ君に晴れ',
+        'artist': 'ヨルシカ',
+        'album': 'n/a',
+        'url': 'music/ただ君に晴れ.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

@@ -330,6 +330,48 @@ var songs = [
         'album': 'n/a',
         'url': 'music/小半.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '你是不是有點動心',
+        'artist': '吳卓源',
+        'album': 'n/a',
+        'url': 'music/你是不是有點動心.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '水星記',
+        'artist': '郭頂',
+        'album': 'n/a',
+        'url': 'music/水星記.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '親愛的無情孫小美',
+        'artist': '茄子蛋',
+        'album': 'n/a',
+        'url': 'music/親愛的無情孫小美.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '浪流連',
+        'artist': '茄子蛋',
+        'album': 'n/a',
+        'url': 'music/浪流連.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '愛在夏天',
+        'artist': '告五人',
+        'album': 'n/a',
+        'url': 'music/愛在夏天.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '長途夜車',
+        'artist': '滅火器',
+        'album': 'n/a',
+        'url': 'music/長途夜車.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

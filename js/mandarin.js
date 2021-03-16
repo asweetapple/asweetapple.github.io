@@ -372,6 +372,20 @@ var songs = [
         'album': 'n/a',
         'url': 'music/長途夜車.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '大風吹',
+        'artist': '草東沒有派對',
+        'album': 'n/a',
+        'url': 'music/大風吹.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '山海',
+        'artist': '草東沒有派對',
+        'album': 'n/a',
+        'url': 'music/山海.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

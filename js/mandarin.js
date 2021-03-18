@@ -386,6 +386,20 @@ var songs = [
         'album': 'n/a',
         'url': 'music/山海.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Happy!!! 運將情歌',
+        'artist': '茄子蛋',
+        'album': 'n/a',
+        'url': 'music/Happy!!! 運將情歌.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': '希望你回來',
+        'artist': 'TRASH',
+        'album': 'n/a',
+        'url': 'music/希望你回來.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

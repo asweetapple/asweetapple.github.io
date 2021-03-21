@@ -64,6 +64,48 @@ var songs = [
         'album': 'n/a',
         'url': 'music/When You Were Young.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Bird Set Free',
+        'artist': 'Sia',
+        'album': 'n/a',
+        'url': 'music/Bird Set Free.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Troublemaker',
+        'artist': 'Akon + Sweet Rush',
+        'album': 'n/a',
+        'url': 'music/Troublemaker.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Billionaire',
+        'artist': 'Travie McCoy + Bruno Mars',
+        'album': 'n/a',
+        'url': 'music/Billionaire.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'I Knew You Were Trouble',
+        'artist': 'Taylor Swift',
+        'album': 'n/a',
+        'url': 'music/I Knew You Were Trouble.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Don\'t Leave Me Alone',
+        'artist': 'David Guetta + Anne-Marie',
+        'album': 'n/a',
+        'url': 'music/Don\'t Leave Me Alone.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Nevada',
+        'artist': 'Vicetone + Cozi Zuehlsdorff',
+        'album': 'n/a',
+        'url': 'music/Nevada.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

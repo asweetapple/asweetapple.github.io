@@ -106,6 +106,34 @@ var songs = [
         'album': 'n/a',
         'url': 'music/Nevada.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'My Songs Know What You Did In The Dark (Light Em Up)',
+        'artist': 'Fall Out Boy',
+        'album': 'n/a',
+        'url': 'music/My Songs Know What You Did In The Dark (Light Em Up).mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Through The Fire And Flames',
+        'artist': 'DragonForce',
+        'album': 'n/a',
+        'url': 'music/Through The Fire And Flames.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Tears',
+        'artist': 'Clean Bandit + Louisa Johnson',
+        'album': 'n/a',
+        'url': 'music/Tears.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Baby',
+        'artist': 'Clean Bandit + Marina & Luis Fonsi',
+        'album': 'n/a',
+        'url': 'music/Baby.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

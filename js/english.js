@@ -134,6 +134,34 @@ var songs = [
         'album': 'n/a',
         'url': 'music/Baby.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Whatever It Takes',
+        'artist': 'Imagine Dragons',
+        'album': 'n/a',
+        'url': 'music/Whatever It Takes.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Heartbeat Song',
+        'artist': 'Kelly Clarkson',
+        'album': 'n/a',
+        'url': 'music/Heartbeat Song.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Symphony',
+        'artist': 'Clean Bandit + Zara Larsson',
+        'album': 'n/a',
+        'url': 'music/Symphony.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+    },
+    {
+        'name': 'Gone, Gone, Gone',
+        'artist': 'Phillip Phillips',
+        'album': 'n/a',
+        'url': 'music/Gone, Gone, Gone.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
     }
 ];
 

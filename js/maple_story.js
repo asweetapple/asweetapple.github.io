@@ -661,10 +661,17 @@ var songs = [
           'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg' 
      },
      {
-          'name': 'MapleStory_BGM_1',
+          'name': 'MapleStory_BGM_1_1',
           'artist': 'maple_story',
           'album': 'n/a',
-          'url': 'music/maple_story/MapleStory_BGM_1.mp3',
+          'url': 'music/maple_story/MapleStory_BGM_1_1.mp3',
+          'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+     },
+     {
+          'name': 'MapleStory_BGM_1_2',
+          'artist': 'maple_story',
+          'album': 'n/a',
+          'url': 'music/maple_story/MapleStory_BGM_1_2.mp3',
           'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
      },
      {
@@ -672,6 +679,34 @@ var songs = [
           'artist': 'maple_story',
           'album': 'n/a',
           'url': 'music/maple_story/MapleStory_BGM_2.mp3',
+          'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+     },
+     {
+          'name': 'MapleStory_BGM_3_1',
+          'artist': 'maple_story',
+          'album': 'n/a',
+          'url': 'music/maple_story/MapleStory_BGM_3_1.mp3',
+          'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+     },
+     {
+          'name': 'MapleStory_BGM_3_2',
+          'artist': 'maple_story',
+          'album': 'n/a',
+          'url': 'music/maple_story/MapleStory_BGM_3_2.mp3',
+          'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+     },
+     {
+          'name': 'MapleStory_BGM_4_1',
+          'artist': 'maple_story',
+          'album': 'n/a',
+          'url': 'music/maple_story/MapleStory_BGM_4_1.mp3',
+          'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+     },
+     {
+          'name': 'MapleStory_BGM_4_2',
+          'artist': 'maple_story',
+          'album': 'n/a',
+          'url': 'music/maple_story/MapleStory_BGM_4_2.mp3',
           'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
      },
      {

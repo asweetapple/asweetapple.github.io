@@ -148,7 +148,42 @@ var songs = [
         'album': 'n/a',
         'url': 'music/ただ君に晴れ.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
-    }
+    },
+    {
+        'name': 'only my railgun',
+        'artist': 'fripSide',
+        'album': 'n/a',
+        'url': 'music/japanese/fripSide-only my railgun.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+   },
+   {
+        'name': '極楽浄土',
+        'artist': 'GARNiDELiA',
+        'album': 'n/a',
+        'url': 'music/japanese/GARNiDELiA-極楽浄土.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+   },
+   {
+        'name': '紅蓮華',
+        'artist': 'LiSA',
+        'album': 'n/a',
+        'url': 'music/japanese/LiSA-紅蓮華.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+   },
+   {
+        'name': '千本桜',
+        'artist': '和楽器',
+        'album': 'n/a',
+        'url': 'music/japanese/和楽器-千本桜.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+   },
+   {
+        'name': '戀愛循環',
+        'artist': '花澤香菜',
+        'album': 'n/a',
+        'url': 'music/japanese/花澤香菜-戀愛循環.mp3',
+        'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+   }
 ];
 
 for (index = 0; index < songs.length; index++) {

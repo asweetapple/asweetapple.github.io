@@ -113,6 +113,7 @@ var songs = [
         'album': 'n/a',
         'url': 'music/Liszt - Hungarian Rhapsody No. 2.mp3',
         'cover_art_url': 'https://521dimensions.com/img/open-source/amplitudejs/album-art/we-are-to-answer.jpg'
+        
     }
 ];
 
